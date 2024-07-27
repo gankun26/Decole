@@ -8,7 +8,7 @@ function Navbar() {
           class="flex items-center space-x-3 rtl:space-x-reverse"
         >
           <img
-            src="/images/iconebrancofundotransparente.png"
+            src="/images/icone_decole_fundo_preto.jpg"
             class="h-8"
             alt="Logo Decole"
           />
